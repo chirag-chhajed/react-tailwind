@@ -2,10 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+    background-color: #252627;
+}
+
 #root{
-    background-image: url(../public/pexels-alleksana-15173122.jpg);
+    background-image: url(/Doopie_background_image_similar_to_this_7cdd5264-4f9d-4643-9539-e7b18cb09b8e\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
-    
+    background-size: 100% 100%;
 }
