@@ -1,7 +1,7 @@
 
 const LandingPage = () => {
   return (
-    <section className="max-h-[80vh] text-yellow-50 gap-8 my-4 flex flex-col md:gap-10">
+    <section className="max-h-[70vh] text-yellow-50 gap-8 my-4 flex flex-col md:gap-10">
         <h2 className="uppercase font-bold text-2xl sm:text-3xl">our vision</h2>
         <h1 className="uppercase font-bold text-5xl sm:text-6xl md:text-8xl font-raleway">api generation</h1>
         <p className="opacity-70 max-w-[400px] sm:text-xl">Our API generator product revolutionizes API creation. It features an intuitive GUI, streamlining the process and enabling faster development. With AI-powered features, generating RESTful APIs has never been easier. Get ready to enhance your backend with our innovative product.</p>

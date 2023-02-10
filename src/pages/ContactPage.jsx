@@ -2,7 +2,7 @@
 
 const ContactPage = () => {
   return (
-    <section className="h-[80vh] ">
+    <section className="h-[70vh] ">
         Contact Page
     </section>
   )

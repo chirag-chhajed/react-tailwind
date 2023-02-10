@@ -1,6 +1,6 @@
 const Docs = () => {
   return (
-    <section className='h-[80vh]'>
+    <section className='h-[70vh]'>
         Docs Page
     </section>
   )
