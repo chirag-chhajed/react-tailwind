@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+    background-image: url(../public/pexels-alleksana-15173122.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
