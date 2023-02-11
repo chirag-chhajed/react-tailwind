@@ -8,6 +8,10 @@ module.exports = {
     extend: {
       fontFamily:{
         'raleway': ["Raleway", 'sans-serif']
+      },
+      colors:{
+        "pink": '#fcb0f3',
+        'violet': '#3e04dc'
       }
     },
     
